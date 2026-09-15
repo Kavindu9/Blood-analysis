@@ -11,6 +11,8 @@ dependencies = [
     "langchain>=1.4.0",
     "langchain-core>=1.6.3",
     "langchain-google-genai>=4.4.0",
+    "langchain-openai>=1.6.2",
+    "plotly>=7.0.0",
     "python-dotenv>=1.2.3",
     "streamlit>=1.63.0",
 ]

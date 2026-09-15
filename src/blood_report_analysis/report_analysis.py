@@ -29,6 +29,9 @@ extract_values = extraction_data.text
 print("=== STAGE 1: Extracted Values ===")
 print(extract_values)
 
+
+
+
 diet_prompt = f"""
 You are a clinical nutritionist specializin in Sri Lankan dietary habits.
 
