@@ -20,7 +20,7 @@ An intelligent health dashboard that extracts lab values from unstructured blood
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-git clone [https://github.com/your-username/blood-report-analysis.git](https://github.com/your-username/blood-report-analysis.git)
+git clone (https://github.com/Kavindu9/Blood-analysis.git)
 cd blood-report-analysis
 
 ### 2. Environment Setup
